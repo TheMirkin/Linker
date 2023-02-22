@@ -11,4 +11,11 @@ Usage
 ```shell
 python linker.py 
 ```
+Export File
+Vermiş olduğunuz domain adına oluşturur.
+-------------
+```shell
+www.domain.com.internal-links.json
+```
+
 
